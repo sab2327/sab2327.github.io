@@ -76,7 +76,7 @@ function FormatClues(){
 }
 
 
-function Create(){  
+function Create(){
   wordElementsAcross = [];
   wordElementsDown = [];
   
@@ -597,7 +597,7 @@ $('#btnCheck').click(function() {
 				$(this).val('');
 			}
       else {
-        window.alert("Congratulations! https://github.com/sab2327/citadel");
+        window.alert("Congratulations! Please visit: https://github.com/sab2327/citadel");
       } 
 	})
   ;
